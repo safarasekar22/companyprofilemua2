@@ -141,7 +141,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <label for="password">Password</label>
         <input type="password" id="password" name="password" required>
       </div>
-      <button type="submit" class="login-btn">Masuk</button>
+      <button type="submit" class="login-btn">Login</button>
     </form>
     <a href="index.php" class="back-link">← Kembali ke Website</a>
   </div>
