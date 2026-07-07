@@ -62,7 +62,17 @@ include 'includes/header.php';
           <a href="https://wa.me/6281234567890" target="_blank" rel="noopener" aria-label="WhatsApp">WA</a>
         </div>
 
-        <div class="map-box">Peta Lokasi Studio</div>
+        <div class="map-box">
+          <iframe
+            src="https://www.google.com/maps?q=Jl.+Kemuning+Raya+No.12,+RT.9/RW.6,+Pejaten+Timur,+Pasar+Minggu,+Jakarta+Selatan,+12510&output=embed"            width="100%"
+            height="100%"
+            style="border:0;"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Peta Lokasi Studio RASC Makeup">
+          </iframe>
+        </div>
       </div>
 
       <div>
